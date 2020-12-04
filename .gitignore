@@ -37,3 +37,9 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+# Data Directory
+data/
+
+# InteliJ IDE .idea files
+.idea
